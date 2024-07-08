@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-   
+    font-family: "Outfit", sans-serif;
 }
 body{
     /* width: 100vw; */
@@ -418,11 +419,13 @@ li{
     width: 100%;
 }
 .firsth1{
-    width: 100%
+    width: 100%;
+    font-size: 1.5rem;
     
 }
 .firstpara{
-    width: 100%;
+    width:100%;
+    font-size:1rem;
 }
 .unorderedlist{
     display: none;
