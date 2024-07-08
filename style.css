@@ -408,6 +408,9 @@ li{
     padding: 1rem;
    
 }
+.contacts{
+    width: 100%;
+}
 .carddetails{
     line-height: 1rem;
 }
